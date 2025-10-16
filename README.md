@@ -6,7 +6,7 @@ by Peter Kahl, 2025-10-16
 
 [![Generic badge](https://img.shields.io/badge/ORCID-0009–0003–1616–4843-green.svg)](https://orcid.org/0009-0003-1616-4843)
 
-![xxxx](https://github.com/Peter-Kahl/The-Fiduciary-Architecture-of-Mind/blob/main/silhouettes.jpg?raw=true)
+![A softly illuminated, horizontally oriented digital illustration depicting a mother and newborn gazing into each other’s eyes.  Gentle golden light flows between their faces in rhythmic, wave-like patterns symbolising neural and emotional synchrony—recognition (ρ).  Three faint Greek symbols, ρ, σ, and ϕ₀, appear in a circular motion between them, representing the fiduciary circuit of cognition.  The background fades into a warm gradient of ochre, ivory, and pale blue, evoking calm, containment, and trust.  The overall atmosphere is conceptual, scientific, and serene—like journal-cover art on developmental neuroscience or epistemic psychology.](https://github.com/Peter-Kahl/The-Fiduciary-Architecture-of-Mind/blob/main/mum_baby_roh_sigma_phi.jpg?raw=true)
 
 ## Abstract
 
