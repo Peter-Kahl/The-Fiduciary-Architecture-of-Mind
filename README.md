@@ -2,7 +2,7 @@
 
 ### KMED-I and KMED-R as a Unified Model of Cognition
 
-by Peter Kahl, 2025-10-16
+by Peter Kahl, 2025-10-17
 
 [![Generic badge](https://img.shields.io/badge/ORCID-0009–0003–1616–4843-green.svg)](https://orcid.org/0009-0003-1616-4843)
 
@@ -22,7 +22,7 @@ epistemic psychology, fiduciary ethics, cognition, KMED-I, KMED-R, trust, recogn
 
 ## Download
 
-- [Download here (PDF)](https://raw.githubusercontent.com/Peter-Kahl/The-Fiduciary-Architecture-of-Mind/master/Kahl_P_The_Fiduciary_Architecture_of_Mind_2025-10-16.pdf)
+- [Download here (PDF)](https://raw.githubusercontent.com/Peter-Kahl/The-Fiduciary-Architecture-of-Mind/master/Kahl_P_The_Fiduciary_Architecture_of_Mind_2025-10-17.pdf)
 
 ## Cite this work
 
@@ -30,7 +30,7 @@ Kahl, P. (2025). _The Fiduciary Architecture of Mind: KMED-I and KMED-R as a Uni
 
 ## Publisher & Licence
 
-First published in Great Britain by Lex et Ratio Ltd, 2025-10-16.
+First published in Great Britain by Lex et Ratio Ltd, 2025-10-17.
 
 © 2025 Lex et Ratio Ltd. Licensed under Creative Commons BY-NC-ND 4.0.\
 You may share this work for non-commercial purposes with attribution and without modification.\
